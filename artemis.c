@@ -1,9 +1,4 @@
-/*
- * artemis.c - Calculo analitico, simulacion y opciones de menu del simulador SLS.
- *
- * Las declaraciones estan en artemis.h. La lectura de datos del usuario esta en
- * validaciones.c.
- */
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
