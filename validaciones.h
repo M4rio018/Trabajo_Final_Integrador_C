@@ -1,8 +1,4 @@
-/*
- * validaciones.h - Lectura segura de datos por teclado.
- *
- * Este modulo no sabe nada del cohete: solo lee numeros y los valida.
- */
+
 #ifndef VALIDACIONES_H
 #define VALIDACIONES_H
 
