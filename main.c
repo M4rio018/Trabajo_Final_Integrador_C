@@ -1,10 +1,4 @@
-/*
- * ARTEMIS - Simulador de ascenso del cohete SLS (Situacion 1)
- * Lenguaje: C99
- *
- * main.c: solo contiene el menu y el ciclo principal. Toda la logica esta en
- * artemis.c y la lectura de datos en validaciones.c.
- */
+
 #include <stdio.h>
 
 #include "artemis.h"
